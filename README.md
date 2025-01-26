@@ -1,2 +1,2 @@
-# hello-world
+# personal
 Personal projects
